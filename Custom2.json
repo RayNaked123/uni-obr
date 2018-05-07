@@ -2,7 +2,7 @@
     "room": "União Br",
     "author": "Burkyst",
     "icon": 
-    "css": null,
+    "css" : null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
