@@ -1,0 +1,45 @@
+{
+    "room": "♛ ᙘⵔNᗪ o/ ♛™",
+    "author": "Burkyst",
+    "icon": null,
+    "css": "https://rawgit.com/JubileuW/-Bond-o-/master/style2.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#ff0101",
+        "cohost": "#ff8300",
+        "manager": "#fee301",
+        "bouncer": "#05c5fa",
+        "rdj": "#7a16dd",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://i.imgur.com/TdCzPrD.jpg",
+        "playback": "https://imgur.com/wn0v6k6.jpg",
+        "admin": null,
+        "ambassador": null,
+        "host": "https://i.imgur.com/uRz4FWe.png",
+        "cohost": "https://i.imgur.com/RhbLpCe.png",
+        "manager": "https://i.imgur.com/StDp83U.png",
+        "bouncer": "https://i.imgur.com/TscUQCc.png",
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
